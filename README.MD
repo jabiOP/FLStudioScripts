@@ -26,7 +26,7 @@ alias flp="python PATH_FOR_THE_SCRIPT"
 
 Run the script by typing `flp` on your terminal.
 
-##TODO
+## TODO
 
 - Error handling
 
