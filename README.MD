@@ -26,6 +26,10 @@ alias flp="python PATH_FOR_THE_SCRIPT"
 
 Run the script by typing `flp` on your terminal.
 
+##TODO
+
+- Error handling
+
 ### About
 
 This script stems from years of manually creating folders and flps
